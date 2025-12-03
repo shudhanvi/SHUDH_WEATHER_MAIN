@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+pandas
+numpy
+python-dateutil
+scikit-learn
+xgboost
+joblib
+apscheduler
+pytz

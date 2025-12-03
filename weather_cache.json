@@ -1,0 +1,772 @@
+{
+  "somajiguda_1": {
+    "lat": 17.4230918434009,
+    "lon": 78.45633922394144,
+    "2025-12-03": {
+      "fetched_at": "2025-12-03T17:47:37.672381+05:30",
+      "data": {
+        "provider": "visual-crossing",
+        "datewise_7d": [
+          {
+            "date": "2025-12-03",
+            "precip_mm": 0.0,
+            "precip_prob": 9.7,
+            "avgtemp_c": 22.6,
+            "avghumidity": 66.6,
+            "windspeed_max": 18.4,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-04",
+            "precip_mm": 0.1,
+            "precip_prob": 12.9,
+            "avgtemp_c": 22.1,
+            "avghumidity": 65.6,
+            "windspeed_max": 11.5,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-05",
+            "precip_mm": 0.0,
+            "precip_prob": 6.5,
+            "avgtemp_c": 22.8,
+            "avghumidity": 53.5,
+            "windspeed_max": 14.4,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-06",
+            "precip_mm": 0.0,
+            "precip_prob": 0.0,
+            "avgtemp_c": 21.5,
+            "avghumidity": 45.5,
+            "windspeed_max": 12.6,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-07",
+            "precip_mm": 0.0,
+            "precip_prob": 0.0,
+            "avgtemp_c": 21.7,
+            "avghumidity": 41.5,
+            "windspeed_max": 13.3,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-08",
+            "precip_mm": 0.0,
+            "precip_prob": 0.0,
+            "avgtemp_c": 21.4,
+            "avghumidity": 38.3,
+            "windspeed_max": 12.2,
+            "conditions": "Overcast"
+          },
+          {
+            "date": "2025-12-09",
+            "precip_mm": 0.0,
+            "precip_prob": 0.0,
+            "avgtemp_c": 21.1,
+            "avghumidity": 33.9,
+            "windspeed_max": 14.4,
+            "conditions": "Partially cloudy"
+          }
+        ],
+        "rain_24h": 0.0,
+        "rain_48h": 0.1,
+        "rain_7d": 0.1,
+        "avg_temp_24h": 22.587499999999995,
+        "avg_humidity_24h": 66.63208333333334,
+        "max_wind_24h": 18.4,
+        "max_hourly_precip_24h": 0.0,
+        "precip_prob_24h": 9.7,
+        "storm_flag": 0,
+        "hourly_precips": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    }
+  },
+  "somajiguda_2": {
+    "lat": 17.431393329851854,
+    "lon": 78.4512222677284,
+    "2025-12-03": {
+      "fetched_at": "2025-12-03T17:47:41.071881+05:30",
+      "data": {
+        "provider": "visual-crossing",
+        "datewise_7d": [
+          {
+            "date": "2025-12-03",
+            "precip_mm": 0.0,
+            "precip_prob": 9.7,
+            "avgtemp_c": 22.6,
+            "avghumidity": 66.6,
+            "windspeed_max": 18.4,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-04",
+            "precip_mm": 0.1,
+            "precip_prob": 12.9,
+            "avgtemp_c": 22.1,
+            "avghumidity": 65.6,
+            "windspeed_max": 11.5,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-05",
+            "precip_mm": 0.0,
+            "precip_prob": 6.5,
+            "avgtemp_c": 22.8,
+            "avghumidity": 53.5,
+            "windspeed_max": 14.4,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-06",
+            "precip_mm": 0.0,
+            "precip_prob": 0.0,
+            "avgtemp_c": 21.5,
+            "avghumidity": 45.5,
+            "windspeed_max": 12.6,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-07",
+            "precip_mm": 0.0,
+            "precip_prob": 0.0,
+            "avgtemp_c": 21.7,
+            "avghumidity": 41.5,
+            "windspeed_max": 13.3,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-08",
+            "precip_mm": 0.0,
+            "precip_prob": 0.0,
+            "avgtemp_c": 21.4,
+            "avghumidity": 38.3,
+            "windspeed_max": 12.2,
+            "conditions": "Overcast"
+          },
+          {
+            "date": "2025-12-09",
+            "precip_mm": 0.0,
+            "precip_prob": 0.0,
+            "avgtemp_c": 21.1,
+            "avghumidity": 33.9,
+            "windspeed_max": 14.4,
+            "conditions": "Partially cloudy"
+          }
+        ],
+        "rain_24h": 0.0,
+        "rain_48h": 0.1,
+        "rain_7d": 0.1,
+        "avg_temp_24h": 22.587499999999995,
+        "avg_humidity_24h": 66.61375,
+        "max_wind_24h": 18.4,
+        "max_hourly_precip_24h": 0.0,
+        "precip_prob_24h": 9.7,
+        "storm_flag": 0,
+        "hourly_precips": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    }
+  },
+  "somajiguda_3": {
+    "lat": 17.434180220412372,
+    "lon": 78.46021347319586,
+    "2025-12-03": {
+      "fetched_at": "2025-12-03T17:47:45.027260+05:30",
+      "data": {
+        "provider": "visual-crossing",
+        "datewise_7d": [
+          {
+            "date": "2025-12-03",
+            "precip_mm": 0.0,
+            "precip_prob": 9.7,
+            "avgtemp_c": 22.6,
+            "avghumidity": 66.6,
+            "windspeed_max": 18.4,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-04",
+            "precip_mm": 0.1,
+            "precip_prob": 12.9,
+            "avgtemp_c": 22.1,
+            "avghumidity": 65.6,
+            "windspeed_max": 11.5,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-05",
+            "precip_mm": 0.0,
+            "precip_prob": 6.5,
+            "avgtemp_c": 22.8,
+            "avghumidity": 53.5,
+            "windspeed_max": 14.4,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-06",
+            "precip_mm": 0.0,
+            "precip_prob": 0.0,
+            "avgtemp_c": 21.5,
+            "avghumidity": 45.5,
+            "windspeed_max": 12.6,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-07",
+            "precip_mm": 0.0,
+            "precip_prob": 0.0,
+            "avgtemp_c": 21.7,
+            "avghumidity": 41.5,
+            "windspeed_max": 13.3,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-08",
+            "precip_mm": 0.0,
+            "precip_prob": 0.0,
+            "avgtemp_c": 21.4,
+            "avghumidity": 38.3,
+            "windspeed_max": 12.2,
+            "conditions": "Overcast"
+          },
+          {
+            "date": "2025-12-09",
+            "precip_mm": 0.0,
+            "precip_prob": 0.0,
+            "avgtemp_c": 21.1,
+            "avghumidity": 33.9,
+            "windspeed_max": 14.4,
+            "conditions": "Partially cloudy"
+          }
+        ],
+        "rain_24h": 0.0,
+        "rain_48h": 0.1,
+        "rain_7d": 0.1,
+        "avg_temp_24h": 22.587499999999995,
+        "avg_humidity_24h": 66.59291666666667,
+        "max_wind_24h": 18.4,
+        "max_hourly_precip_24h": 0.0,
+        "precip_prob_24h": 9.7,
+        "storm_flag": 0,
+        "hourly_precips": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    }
+  },
+  "somajiguda_4": {
+    "lat": 17.42951697079295,
+    "lon": 78.45956408099119,
+    "2025-12-03": {
+      "fetched_at": "2025-12-03T17:47:47.677440+05:30",
+      "data": {
+        "provider": "visual-crossing",
+        "datewise_7d": [
+          {
+            "date": "2025-12-03",
+            "precip_mm": 0.0,
+            "precip_prob": 9.7,
+            "avgtemp_c": 22.6,
+            "avghumidity": 66.6,
+            "windspeed_max": 18.4,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-04",
+            "precip_mm": 0.1,
+            "precip_prob": 12.9,
+            "avgtemp_c": 22.1,
+            "avghumidity": 65.6,
+            "windspeed_max": 11.5,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-05",
+            "precip_mm": 0.0,
+            "precip_prob": 6.5,
+            "avgtemp_c": 22.8,
+            "avghumidity": 53.5,
+            "windspeed_max": 14.4,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-06",
+            "precip_mm": 0.0,
+            "precip_prob": 0.0,
+            "avgtemp_c": 21.5,
+            "avghumidity": 45.5,
+            "windspeed_max": 12.6,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-07",
+            "precip_mm": 0.0,
+            "precip_prob": 0.0,
+            "avgtemp_c": 21.7,
+            "avghumidity": 41.5,
+            "windspeed_max": 13.3,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-08",
+            "precip_mm": 0.0,
+            "precip_prob": 0.0,
+            "avgtemp_c": 21.4,
+            "avghumidity": 38.3,
+            "windspeed_max": 12.2,
+            "conditions": "Overcast"
+          },
+          {
+            "date": "2025-12-09",
+            "precip_mm": 0.0,
+            "precip_prob": 0.0,
+            "avgtemp_c": 21.1,
+            "avghumidity": 33.9,
+            "windspeed_max": 14.4,
+            "conditions": "Partially cloudy"
+          }
+        ],
+        "rain_24h": 0.0,
+        "rain_48h": 0.1,
+        "rain_7d": 0.1,
+        "avg_temp_24h": 22.587499999999995,
+        "avg_humidity_24h": 66.60541666666667,
+        "max_wind_24h": 18.4,
+        "max_hourly_precip_24h": 0.0,
+        "precip_prob_24h": 9.7,
+        "storm_flag": 0,
+        "hourly_precips": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    }
+  },
+  "somajiguda_5": {
+    "lat": 17.424751605632185,
+    "lon": 78.46043765436782,
+    "2025-12-03": {
+      "fetched_at": "2025-12-03T17:47:49.826612+05:30",
+      "data": {
+        "provider": "visual-crossing",
+        "datewise_7d": [
+          {
+            "date": "2025-12-03",
+            "precip_mm": 0.0,
+            "precip_prob": 9.7,
+            "avgtemp_c": 22.6,
+            "avghumidity": 66.6,
+            "windspeed_max": 18.4,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-04",
+            "precip_mm": 0.1,
+            "precip_prob": 12.9,
+            "avgtemp_c": 22.1,
+            "avghumidity": 65.6,
+            "windspeed_max": 11.5,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-05",
+            "precip_mm": 0.0,
+            "precip_prob": 6.5,
+            "avgtemp_c": 22.8,
+            "avghumidity": 53.5,
+            "windspeed_max": 14.4,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-06",
+            "precip_mm": 0.0,
+            "precip_prob": 0.0,
+            "avgtemp_c": 21.5,
+            "avghumidity": 45.5,
+            "windspeed_max": 12.6,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-07",
+            "precip_mm": 0.0,
+            "precip_prob": 0.0,
+            "avgtemp_c": 21.7,
+            "avghumidity": 41.5,
+            "windspeed_max": 13.3,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-08",
+            "precip_mm": 0.0,
+            "precip_prob": 0.0,
+            "avgtemp_c": 21.4,
+            "avghumidity": 38.3,
+            "windspeed_max": 12.2,
+            "conditions": "Overcast"
+          },
+          {
+            "date": "2025-12-09",
+            "precip_mm": 0.0,
+            "precip_prob": 0.0,
+            "avgtemp_c": 21.1,
+            "avghumidity": 33.9,
+            "windspeed_max": 14.4,
+            "conditions": "Partially cloudy"
+          }
+        ],
+        "rain_24h": 0.0,
+        "rain_48h": 0.1,
+        "rain_7d": 0.1,
+        "avg_temp_24h": 22.587499999999995,
+        "avg_humidity_24h": 66.61958333333332,
+        "max_wind_24h": 18.4,
+        "max_hourly_precip_24h": 0.0,
+        "precip_prob_24h": 9.7,
+        "storm_flag": 0,
+        "hourly_precips": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    }
+  },
+  "somajiguda_6": {
+    "lat": 17.421369677687075,
+    "lon": 78.46379192210884,
+    "2025-12-03": {
+      "fetched_at": "2025-12-03T17:47:51.660332+05:30",
+      "data": {
+        "provider": "visual-crossing",
+        "datewise_7d": [
+          {
+            "date": "2025-12-03",
+            "precip_mm": 0.0,
+            "precip_prob": 9.7,
+            "avgtemp_c": 22.6,
+            "avghumidity": 66.6,
+            "windspeed_max": 18.4,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-04",
+            "precip_mm": 0.1,
+            "precip_prob": 12.9,
+            "avgtemp_c": 22.1,
+            "avghumidity": 65.6,
+            "windspeed_max": 11.5,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-05",
+            "precip_mm": 0.0,
+            "precip_prob": 6.5,
+            "avgtemp_c": 22.8,
+            "avghumidity": 53.5,
+            "windspeed_max": 14.4,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-06",
+            "precip_mm": 0.0,
+            "precip_prob": 0.0,
+            "avgtemp_c": 21.5,
+            "avghumidity": 45.5,
+            "windspeed_max": 12.6,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-07",
+            "precip_mm": 0.0,
+            "precip_prob": 0.0,
+            "avgtemp_c": 21.7,
+            "avghumidity": 41.5,
+            "windspeed_max": 13.3,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-08",
+            "precip_mm": 0.0,
+            "precip_prob": 0.0,
+            "avgtemp_c": 21.4,
+            "avghumidity": 38.3,
+            "windspeed_max": 12.2,
+            "conditions": "Overcast"
+          },
+          {
+            "date": "2025-12-09",
+            "precip_mm": 0.0,
+            "precip_prob": 0.0,
+            "avgtemp_c": 21.1,
+            "avghumidity": 33.9,
+            "windspeed_max": 14.4,
+            "conditions": "Partially cloudy"
+          }
+        ],
+        "rain_24h": 0.0,
+        "rain_48h": 0.1,
+        "rain_7d": 0.1,
+        "avg_temp_24h": 22.587499999999995,
+        "avg_humidity_24h": 66.62958333333334,
+        "max_wind_24h": 18.4,
+        "max_hourly_precip_24h": 0.0,
+        "precip_prob_24h": 9.7,
+        "storm_flag": 0,
+        "hourly_precips": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    }
+  },
+  "somajiguda_7": {
+    "lat": 17.41797248956,
+    "lon": 78.46312439856,
+    "2025-12-03": {
+      "fetched_at": "2025-12-03T17:47:53.504757+05:30",
+      "data": {
+        "provider": "visual-crossing",
+        "datewise_7d": [
+          {
+            "date": "2025-12-03",
+            "precip_mm": 0.0,
+            "precip_prob": 9.7,
+            "avgtemp_c": 22.6,
+            "avghumidity": 66.6,
+            "windspeed_max": 18.4,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-04",
+            "precip_mm": 0.1,
+            "precip_prob": 12.9,
+            "avgtemp_c": 22.1,
+            "avghumidity": 65.6,
+            "windspeed_max": 11.5,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-05",
+            "precip_mm": 0.0,
+            "precip_prob": 6.5,
+            "avgtemp_c": 22.8,
+            "avghumidity": 53.5,
+            "windspeed_max": 14.4,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-06",
+            "precip_mm": 0.0,
+            "precip_prob": 0.0,
+            "avgtemp_c": 21.5,
+            "avghumidity": 45.5,
+            "windspeed_max": 12.6,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-07",
+            "precip_mm": 0.0,
+            "precip_prob": 0.0,
+            "avgtemp_c": 21.7,
+            "avghumidity": 41.5,
+            "windspeed_max": 13.3,
+            "conditions": "Partially cloudy"
+          },
+          {
+            "date": "2025-12-08",
+            "precip_mm": 0.0,
+            "precip_prob": 0.0,
+            "avgtemp_c": 21.4,
+            "avghumidity": 38.3,
+            "windspeed_max": 12.2,
+            "conditions": "Overcast"
+          },
+          {
+            "date": "2025-12-09",
+            "precip_mm": 0.0,
+            "precip_prob": 0.0,
+            "avgtemp_c": 21.1,
+            "avghumidity": 33.9,
+            "windspeed_max": 14.4,
+            "conditions": "Partially cloudy"
+          }
+        ],
+        "rain_24h": 0.0,
+        "rain_48h": 0.1,
+        "rain_7d": 0.1,
+        "avg_temp_24h": 22.587499999999995,
+        "avg_humidity_24h": 66.64541666666666,
+        "max_wind_24h": 18.4,
+        "max_hourly_precip_24h": 0.0,
+        "precip_prob_24h": 9.7,
+        "storm_flag": 0,
+        "hourly_precips": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    }
+  }
+}
