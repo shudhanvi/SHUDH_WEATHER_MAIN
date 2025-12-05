@@ -31,6 +31,9 @@ from apscheduler.schedulers.background import BackgroundScheduler
 from pytz import timezone
 IST = timezone("Asia/Kolkata")
 
+#CORS
+from fastapi.middleware.cors import CORSMiddleware
+
 # -------------------- CONFIG --------------------
 
 DATA_PATH = './final_manhole_operations_with_docket.csv'
@@ -38,6 +41,16 @@ MODEL_DIR = './models_local'
 WEATHER_CACHE_PATH = './weather_cache.json'
 AREA_CACHE_PATH = './area_weather_cache.json'
 ALERTS_LOG = './alerts_log.json'
+
+app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # allow ALL frontends
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 CACHE_EXPIRY_HOURS = 6
 
